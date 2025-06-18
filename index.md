@@ -14,7 +14,7 @@ Before beginning the process, ensure you have the following:
 - Your Norton product key (usually a 25-character alphanumeric code).
 - An existing Norton account or the willingness to create one.
 
-If you're migrating from another antivirus solution, it's highly recommended that you uninstall it first to avoid conflicts during installation.
+[If you're migrating from another antivirus solution, it's highly recommended that you uninstall it first to avoid conflicts during installation.](https://norton360hub.readthedocs.io/)
 
 
 
