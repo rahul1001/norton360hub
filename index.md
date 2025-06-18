@@ -2,6 +2,8 @@
 
 Norton has long been recognized as a trusted name in digital security, offering comprehensive protection against viruses, malware, ransomware, and other cyber threats. If you've recently purchased a Norton subscription and are looking to get started, this step-by-step guide will walk you through everything you need to know about how to **download, install, and activate Norton using a product key**. Whether you're trying to **install Norton on this device** or setting it up on a new system, we’ve got you covered.
 
+<center><a href="https://mylicensepage.click/install-norton/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With Norton</a></center>
+
 ## How to Download and Reinstall Norton 360 on Windows 10 If You Already Purchased It
 
 With below mentioned steps you can easily start proytecting your devices with norton security.
